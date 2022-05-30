@@ -1,7 +1,7 @@
 - 👋 Hey everyone, the name is Danyel, but online I’m @1BlackBeauty
 - 👀 I’m interested in learning to code. I am currently in college to get my Bachelors degree in Criminal Justice, and I have always been fascinated by technology. What better place to start learning besides GitHub!
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently slowly learning how to code while taking classes! Ready for Summer break already
+- 💞️ I’m looking to collaborate on anything once I have a better grasp on what I am doing!
 - 📫 How to reach me ...
 
 <!---
